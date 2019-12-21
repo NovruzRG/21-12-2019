@@ -1,0 +1,7 @@
+.container>div:last-child>p:last-child{
+    color: green;
+}
+
+p[data$="value"] {
+color: red
+}
